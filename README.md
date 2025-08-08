@@ -10,9 +10,12 @@
 ### 👨‍💻 About me
 I'am a dedicated and enthusiastic "Frontend Web Developer" From Bangladesh. Currently I am learning Next js to become a complete web developer. I love building clean code, responsive and interective web application using modern technologies.
 
-### 🔧 Currently Working on
+### 🔧 Currently Overview
 - Improving my skils on React.js, Node Js & MongoDb
 - Exploring And learning Next Js
 
+### 💻 Technologies That I know
 
+### 📬Rech Me Out
 
+### 📊 Current Stats
