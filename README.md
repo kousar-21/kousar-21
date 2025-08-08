@@ -27,11 +27,7 @@ I'am a dedicated and enthusiastic "Frontend Web Developer" From Bangladesh. Curr
 
 ### 📬Rech Me Out
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kousar-ahammed)  
-- 📧 Email: kousar21ahammed@gmail.com  
-- 📱 WhatsApp: +8801521514220
-
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-kousar21/)
 
 ### 📊 Current Stats
 
