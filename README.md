@@ -16,16 +16,11 @@ I'am a dedicated and enthusiastic "Frontend Web Developer" From Bangladesh. Curr
 
 ### 💻 Technologies That I know
 
-
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 </p>
 
@@ -35,3 +30,4 @@ I'am a dedicated and enthusiastic "Frontend Web Developer" From Bangladesh. Curr
 ### 📬Rech Me Out
 
 ### 📊 Current Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
