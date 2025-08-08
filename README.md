@@ -32,10 +32,16 @@ I'am a dedicated and enthusiastic "Frontend Web Developer" From Bangladesh. Curr
 ### 📊 Current Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kousar-21&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br />
+ <p align="left" >
+    <span style="margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=kousar-21&show_icons=true&theme=default" alt="GitHub Stats" />
+  </span>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousar-21&layout=compact&theme=default" alt="Top Languages" />
+  </span>
+ </p>
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kousar-21&theme=default" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousar-21&layout=compact&theme=default" alt="Top Languages" />
+ 
 </p>
 
