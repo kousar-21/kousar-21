@@ -1,7 +1,10 @@
 
 
-### My profile Image
-![bgImage](https://github.com/kousar-21/my-profile/blob/main/img/2.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/Twt9xMTW/3.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/Twt9xMTW/3.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://i.postimg.cc/Twt9xMTW/3.png">
+</picture>
 
 # stats
 
