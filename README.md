@@ -9,6 +9,13 @@
 
 <h1 align="center">Hi, I am Md. Kousar Ahammed Eshan</h1>
 <h3 align= "center">Fronted Web Developer</h3>
+
+### 👨‍💻 About me
+I'am a dedicated and enthusiastic "Frontend Web Developer" From Bangladesh. Currently I am learning Next js to become a complete web developer. I love building clean code, responsive and interective web application using modern technologies.
+
+### 🔧 Currently Working on
+- Improving my skils on React.js, Node Js & MongoDb
+- Exploring And learning Next Js
 # stats
 
 # My Profile 🙍‍♂️
