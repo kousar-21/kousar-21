@@ -13,8 +13,6 @@ I'am a dedicated and enthusiastic "Frontend Web Developer" From Bangladesh. Curr
 ### 🔧 Currently Working on
 - Improving my skils on React.js, Node Js & MongoDb
 - Exploring And learning Next Js
-# stats
 
-# My Profile 🙍‍♂️
-Welcome to my portfolio repository.
-linkiedin: https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
+
+
