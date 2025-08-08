@@ -30,6 +30,12 @@ I'am a dedicated and enthusiastic "Frontend Web Developer" From Bangladesh. Curr
 ### 📬Rech Me Out
 
 ### 📊 Current Stats
-```md
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kousar-21)](https://git.io/streak-stats)
-```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kousar-21&show_icons=true&theme=default" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kousar-21&theme=default" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousar-21&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
