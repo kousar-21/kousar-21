@@ -28,6 +28,8 @@ I'am a dedicated and enthusiastic "Frontend Web Developer" From Bangladesh. Curr
 ### 📬Rech Me Out
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-kousar21/)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kousar.ahammed.eshan)
+
 
 ### 📊 Current Stats
 
